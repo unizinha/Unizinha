@@ -92,13 +92,13 @@ export const botConfig = {
     colors: {
       // Main brand colors.
       primary: "#FFB6C1",
-      secondary: "#2F3136",
+      secondary: "#FF69B4",
 
       // Standard status colors for success/error/warning/info messages.
-      success: "#57F287",
-      error: "#ED4245",
+      success: "#FF69B4",
+      error: "#FF0000",
       warning: "#FEE75C",
-      info: "#3498DB",
+      info: "#FF69B4",
 
       // Neutral utility colors.
       light: "#FFFFFF",
@@ -107,7 +107,7 @@ export const botConfig = {
 
       // Discord-style palette shortcuts.
       blurple: "#5865F2",
-      green: "#57F287",
+      green: "#FF69B4",
       yellow: "#FEE75C",
       fuchsia: "#EB459E",
       red: "#ED4245",
@@ -119,10 +119,10 @@ export const botConfig = {
         ended: "#ED4245",
       },
       ticket: {
-        open: "#57F287",
+        open: "#FF69B4",
         claimed: "#FAA61A",
-        closed: "#ED4245",
-        pending: "#99AAB5",
+        closed: "#FF0000",
+        pending: "#FFC0CB",
       },
       economy: "#F1C40F",
       birthday: "#E91E63",
