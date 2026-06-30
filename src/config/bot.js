@@ -358,7 +358,7 @@ export const botConfig = {
   // =========================
   // WELCOME / GOODBYE MESSAGES
   // =========================
-  Bem-Vindo(a)!: {
+ Welcome: {
     // Welcome template posted when a user joins.
     // Placeholders: {user}, {server}, {member}
     defaultWelcomeMessage:
