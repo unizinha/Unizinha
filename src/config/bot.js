@@ -360,7 +360,7 @@ export const botConfig = {
   // =========================
   Bem-Vindo(a)!: {
     // Welcome template posted when a user joins.
-    // Placeholders: {user}, {server}, {members}
+    // Placeholders: {user}, {server}, {member}
     defaultWelcomeMessage:
       "Bem-Vindo(a)! {user} ao {server}!",
     // Goodbye template posted when a user leaves.
