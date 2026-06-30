@@ -218,7 +218,7 @@ export const botConfig = {
       },
       low: {
         emoji: "🟢",
-        color: "#2ECC71",
+        color: "#FF69B4",
         label: "Low",
       },
       medium: {
